@@ -1,0 +1,89 @@
+1db536a9c4243bc: StartTime
+Primitive operation timings: Registry: 32ms, Files: 32ms
+Transaction UoW: {BE79349A-BDD4-11EF-B766-50849282BC92} for CommitTransaction
+586ms: ValidateQueuedOpsStart
+722ms: ValidateQueuedOpsFinish
+722ms: EndTime
+1db69c9ea39f25a: StartTime
+Primitive operation timings: Registry: 4082ms, Files: 3459ms
+Transaction UoW: {A5466A44-D587-11EF-B76A-50849282BC92} for CommitTransaction
+15008ms: ValidateQueuedOpsStart
+16931ms: ValidateQueuedOpsFinish
+16931ms: EndTime
+1db740a764993a2: StartTime
+Primitive operation timings: Registry: 8314ms, Files: 16414ms
+Transaction UoW: {0A3C19E2-DED2-11EF-B76E-50849282BC92} for CommitTransaction
+38393ms: ValidateQueuedOpsStart
+52356ms: ValidateQueuedOpsFinish
+52356ms: EndTime
+1db7dcd3f98deae: StartTime
+Primitive operation timings: Registry: 2593ms, Files: 2041ms
+Transaction UoW: {6992B33C-E933-11EF-B770-50849282BC92} for CommitTransaction
+7847ms: ValidateQueuedOpsStart
+9114ms: ValidateQueuedOpsFinish
+9114ms: EndTime
+1db8e420b35c7c1: StartTime
+1db8e420b35c7c1: 10b0, c0190003, 0, 0, onecore\base\wcp\sil\ntsystem.cpp, Windows::Rtl::SystemImplementation::DirectFileSystemProvider::SysQueryAttributesFile(4272): 
+1db8e420b35c7c1: d9e, c0190003, 0, 0, onecore\base\wcp\sil\ntsystem.cpp, Windows::Rtl::SystemImplementation::DirectFileSystemProvider::SysCreateFile(3486): 
+1db8e420b35c7c1: a46, c0190003, a9b, 0, CreateFile ;\SystemRoot\WinSxS\FileMaps\$$_systemapps_shared_microsoft.cognitiveservices.speech.extension.embedded.sr.runtime_8d44cf1bfd3e3b_fefb61e14f6c39eb.cdf-ms
+2016ms: EndTime
+1db8e4214a71693: StartTime
+Primitive operation timings: Registry: 2658ms, Files: 7203ms
+Transaction UoW: {2D78EFFD-F98A-11EF-B773-50849282BC92} for CommitTransaction
+15280ms: ValidateQueuedOpsStart
+20663ms: ValidateQueuedOpsFinish
+20663ms: EndTime
+1db949df34f7b96: StartTime
+Primitive operation timings: Registry: 2174ms, Files: 1463ms
+Transaction UoW: {12606C1F-FF42-11EF-B775-50849282BC92} for CommitTransaction
+7951ms: ValidateQueuedOpsStart
+10036ms: ValidateQueuedOpsFinish
+10036ms: EndTime
+1db9fbcfa5ec7f5: StartTime
+Primitive operation timings: Registry: 2783ms, Files: 6130ms
+Transaction UoW: {3594C0DE-0AE1-11F0-B777-50849282BC92} for CommitTransaction
+16027ms: ValidateQueuedOpsStart
+21943ms: ValidateQueuedOpsFinish
+21943ms: EndTime
+1dbaf904b5bad28: StartTime
+Primitive operation timings: Registry: 696ms, Files: 1334ms
+Transaction UoW: {810C6469-1B83-11F0-B77B-50849282BC92} for CommitTransaction
+3239ms: ValidateQueuedOpsStart
+5020ms: ValidateQueuedOpsFinish
+5020ms: EndTime
+1dbb6ed5193de40: StartTime
+Primitive operation timings: Registry: 7678ms, Files: 16664ms
+Transaction UoW: {D4AADE1E-225D-11F0-B77D-50849282BC92} for CommitTransaction
+36856ms: ValidateQueuedOpsStart
+44728ms: ValidateQueuedOpsFinish
+44728ms: EndTime
+1dbc49b192d356b: StartTime
+Primitive operation timings: Registry: 3913ms, Files: 4122ms
+Transaction UoW: {4450ADEE-2F22-11F0-B780-50849282BC92} for CommitTransaction
+15345ms: ValidateQueuedOpsStart
+20049ms: ValidateQueuedOpsFinish
+20049ms: EndTime
+1dbd2ecf65d79fa: StartTime
+Primitive operation timings: Registry: 3316ms, Files: 7316ms
+Transaction UoW: {0595073A-3B81-11F0-B782-50849282BC92} for CommitTransaction
+17749ms: ValidateQueuedOpsStart
+23484ms: ValidateQueuedOpsFinish
+23484ms: EndTime
+1dbdb52790f2fea: StartTime
+Primitive operation timings: Registry: 2142ms, Files: 2321ms
+Transaction UoW: {0894F958-44F3-11F0-B786-50849282BC92} for CommitTransaction
+7728ms: ValidateQueuedOpsStart
+11035ms: ValidateQueuedOpsFinish
+11035ms: EndTime
+1dbdb9b31558d22: StartTime
+Primitive operation timings: Registry: 1092ms, Files: 692ms
+Transaction UoW: {2EB64C89-4746-11F0-B789-50849282BC92} for CommitTransaction
+5014ms: ValidateQueuedOpsStart
+5352ms: ValidateQueuedOpsFinish
+5352ms: EndTime
+1dbe8c8771f1413: StartTime
+Primitive operation timings: Registry: 2796ms, Files: 5647ms
+Transaction UoW: {3FD86114-5327-11F0-B78B-50849282BC92} for CommitTransaction
+13805ms: ValidateQueuedOpsStart
+18676ms: ValidateQueuedOpsFinish
+18676ms: EndTime
